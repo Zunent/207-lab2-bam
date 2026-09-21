@@ -32,6 +32,7 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 ## Decoration
 
 - Fresh raspberries
+- Fresh blueberries
 - A dusting of powdered sugar
 
 ## Instructions
@@ -60,6 +61,6 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 
 12. Cover the top and sides of the cake with frosting.
 
-13. Decorate the cake with fresh raspberries.
+13. Decorate the cake with fresh raspberries and blueberries.
 
 14. Add a dusting of powdered sugar just before serving.
